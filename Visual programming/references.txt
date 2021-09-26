@@ -1,0 +1,39 @@
+visual programming python
+
+https://stackoverflow.com/questions/3001633/practical-python-based-visual-programming-environment
+
+https://github.com/leon-thomm/Ryven
+
+https://www.scripps.edu/sanner/html/papers/IPC02.pdf
+
+https://opensource.com/article/19/5/graphically-programming-pythonic
+
+https://github.com/honix/Pyno
+
+https://github.com/MathInspector/MathInspector
+
+https://github.com/fleskovar/PyWeaver
+
+
+*******************************************************************************************
+
+visual programming
+
+
+https://developers.google.com/blockly/guides/get-started/web - can translate the code to python
+
+https://developers.google.com/blockly
+
+
+https://github.com/google/blockly - can translate the code to python
+
+
+https://github.com/wonderworks-software/PyFlow/blob/master/LICENSE
+
+https://github.com/hoffstadt/DearPyGui#usage
+
+
+
+
+
+
