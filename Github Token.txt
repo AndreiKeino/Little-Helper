@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 github password authentication deprecated
 
 
 ****************************************************************************************
 
-=======
->>>>>>> 212504f5bbac920545819bccec0209c61b14b648
 
 https://betterprogramming.pub/dealing-with-github-password-authentication-deprecation-1b59ced90065
 
@@ -25,9 +22,9 @@ maximize sharpe ratio -
 p. 158
 
 
-<<<<<<< HEAD
 git remote add origin https://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@github.com/AndreiKeino/Little-Helper.git
 
-=======
-git remote add origin https://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@github.com/AndreiKeino/Little-Helper.git
->>>>>>> 212504f5bbac920545819bccec0209c61b14b648
+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
+
+
+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
