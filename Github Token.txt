@@ -1,0 +1,26 @@
+github password authentication deprecated
+
+
+****************************************************************************************
+
+
+https://betterprogramming.pub/dealing-with-github-password-authentication-deprecation-1b59ced90065
+
+First, remove your old remote by launching 
+
+>git remote remove origin
+
+(assuming your remote is called origin). Then, add it again in the following format:
+>git remote add origin https://<TOKEN>@github.com/<USERNAME>/<REPO>.git
+
+git remote add origin https://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@github.com/AndreiKeino/Audi.git
+
+git remote add origin https://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@github.com/AndreiKeino/All-Leonard---Anonimous-data-analysis.git
+
+maximize sharpe ratio -
+
+p. 158
+
+
+git remote add origin https://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@github.com/AndreiKeino/Little-Helper.git
+

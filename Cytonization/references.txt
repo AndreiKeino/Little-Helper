@@ -1,0 +1,14 @@
+automatic cythonize
+
+https://medium.datadriveninvestor.com/using-easy-cython-to-speed-up-python-in-just-a-few-steps-fbda8d0cdeff
+
+https://pypi.org/project/easycython/
+
+
+https://stackoverflow.com/questions/19772245/automatic-declaring-c-types-on-python-variables-for-cython
+
+https://cython.readthedocs.io/en/latest/src/quickstart/cythonize.html
+
+
+*************************************************************************************************
+
